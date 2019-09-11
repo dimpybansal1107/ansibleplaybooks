@@ -1,0 +1,34 @@
+10 resources
+
+
+overall append 
+month wise 
+SLA 
+
+
+
+P434CTK
+P434CCL
+P434CRW
+
+5 year -- ibm, AON , ibm monitoring alert service now 
+
+
+
+call data  sumaary --  
+quater wise data  -- 
+sla uptime domain -- 
+Extended Support -- PM activity 
+
+power redundancy
+
+value added support 
+
+SELECT DISTINCT GRANTEE, GRANTEETYPE, 'SCHEMA  ' FROM SYSCAT.SCHEMAAUTHUNION
+
+
+Error: unbound-libs conflicts with redhat-release-server-7.1-1.el7.x86_64
+
+SELECT AUTHID, PRIVILEGE, OBJECTNAME, OBJECTSCHEMA, OBJECTTYPE FROM SYSIBMADM.PRIVILEGES
+
+SELECT AUTHID, PRIVILEGE, OBJECTNAME, OBJECTSCHEMA, OBJECTTYPE FROM SYSIBMADM.PRIVILEGES
